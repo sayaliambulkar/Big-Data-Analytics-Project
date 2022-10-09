@@ -9,6 +9,7 @@
 
 <b>Communication plan:</b>
 A combination of biweekly Zoom meetings/in-person library sessions.
+Building the project in stages through branch creation and commits.
 
 <b>Business Opportunity:</b>
 Any product business or organization has one common goal of maximizing profit through maximizing sales. Forecasting or estimating future sales values can not only detect patterns in the system but also inspire strategic decisions and help prepare for them today.
@@ -17,3 +18,12 @@ Any product business or organization has one common goal of maximizing profit th
 
 <b>Research Objectives and Questions:</b>
 
+<i>Descriptive:</i>
+1. Have sales been increasing or decreasing for a particular store?
+2. How have promotions affected historical sales for a particular store?
+3. How have school holidays influenced sales up to a week prior to the holiday date for a particular store?
+4. How did promotions and/or school holidays affect sales in general for all stores?
+
+<i>Predictive:</i>
+1. What are the predicted sales for a particular store for a specific date (one year from today)?
+2. How do the sales at a particular store on Christmas this year compare to the sales at other stores on the same date?
