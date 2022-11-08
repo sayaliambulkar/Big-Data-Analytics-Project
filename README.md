@@ -20,6 +20,8 @@ Predicting whether or not a customer will repay the loan that he takes can not o
 
 <i>Descriptive:</i>
 1. How does the loan amount vary with loan repayment status?
+![Screenshot (547)](https://user-images.githubusercontent.com/52133983/200477749-00556c3d-3a20-41fb-9dbb-af263150a29d.png)
+
 2. What is the most and least important factor affecting loan repayment status?
 3. How does the interest rate vary with the purpose of taking the loan? What other factors influence interest rate and by how much? How does that, in turn, affect loan repayment status?
 
