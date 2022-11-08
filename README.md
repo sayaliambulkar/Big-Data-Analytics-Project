@@ -23,10 +23,10 @@ Predicting whether or not a customer will repay the loan that he takes can not o
 ![Screenshot (547)](https://user-images.githubusercontent.com/52133983/200477749-00556c3d-3a20-41fb-9dbb-af263150a29d.png)
 
 2. How does the annual income vary with loan repayment status?
-![Screenshot (546)](https://user-images.githubusercontent.com/52133983/200477980-e09a80db-f5ed-4bd1-a81d-35d69c93ad40.png)
+![Screenshot (545)](https://user-images.githubusercontent.com/52133983/200478171-a9560e88-9a60-4b48-897c-215532e3397d.png)
 
 3. How does the loan amount vary with loan repayment status?
-![Screenshot (544)](https://user-images.githubusercontent.com/52133983/200478004-9ba27703-4438-480d-8390-e1b178dd5a72.png)
+![Screenshot (546)](https://user-images.githubusercontent.com/52133983/200477980-e09a80db-f5ed-4bd1-a81d-35d69c93ad40.png)
 
 4. What is the most and least important factor affecting loan repayment status?
 
