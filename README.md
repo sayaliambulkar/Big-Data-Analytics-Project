@@ -28,7 +28,5 @@ Predicting whether or not a customer will repay the loan that he takes can not o
 3. How does the loan amount vary with loan repayment status?
 ![Screenshot (546)](https://user-images.githubusercontent.com/52133983/200477980-e09a80db-f5ed-4bd1-a81d-35d69c93ad40.png)
 
-4. What is the most and least important factor affecting loan repayment status?
-
 <i>Predictive:</i>
 1. Is a new customer likely to repay the loan taken or not? With how much certainty/accuracy can we predict this?
